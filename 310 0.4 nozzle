@@ -1,7 +1,7 @@
 {
   "type": "machine",
   "setting_id": "GM_VORON_007",
-  "name": "Voron Trident 350 0.4 nozzle",
+  "name": "310 0.4 nozzle",
   "from": "system",
   "instantiation": "true",
   "inherits": "fdm_klipper_common",
@@ -11,12 +11,12 @@
   ],
   "printable_area": [
     "0x0",
-    "350x0",
-    "350x350",
+    "310x0",
+    "310x310",
     "0x350"
   ],
-  "printable_height": "250",
+  "printable_height": "350",
   "retract_lift_below":[
-    "249"
+    "349"
   ]
 }
